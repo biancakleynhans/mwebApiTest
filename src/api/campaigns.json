@@ -1,0 +1,57 @@
+[
+  {
+    "links": [],
+    "code": "FTTH-FREESETUP-FREEROUTER",
+    "name": "FREE setup and FREE router",
+    "description": "",
+    "category": "fibre",
+    "urlSlug": "",
+    "isStandardCampaign": false,
+    "isDefaultCampaign": true,
+    "isPrivateCampaign": false,
+    "promocodes": [
+      "FTTH-FROGFOOTAIR-M2M",
+      "FTTH-OPEN-SETUP-CLAWBACK-100MBUP-NEW",
+      "FTTH-EVOTEL-CLAWBACK-100MBUP",
+      "FTTH-LINKLAYER-CLAWBACK-100MBUP",
+      "FTTH-VODA-CLAWBACK-100MBUP",
+      "FTTH-TTCONNECT-CLAWBACK-100MBUP",
+      "FTTH-CLEARACCESS-CLAWBACK",
+      "FTTH-ZOOM-CLAWBACK",
+      "FTTH-OCTOTEL-SETUP-100MBUP",
+      "FTTH-CCC-CLARA-CLAWBACK",
+      "FTTH-CCC-SETUP-100MBUP",
+      "FTTH-CCC-ALT-SETUP-100MBUP",
+      "FTTH-VUMA-CLAWBACK-100MBUP",
+      "FTTH-WEBCONNECT-M2M",
+      "FTTH-LINKAFRICA-SETUP-CLAWBACK-100MBUP",
+      "FTTH-MFN-SETUP-CLAWBACK-50DEAL",
+      "FTTH-FROG-M2M-SETUP-CLAWBACK-100MBUP",
+      "FTTH-LIGHTSTRUCK-SETUP-CLAWBACK-100MBUP"
+    ]
+  },
+  {
+    "links": [],
+    "code": "FTTH-FREESETUP-FREEROUTER-SWITCH-REGRADE-LINE",
+    "name": "FREE setup and FREE router",
+    "description": "",
+    "category": "fibre",
+    "urlSlug": "",
+    "isStandardCampaign": false,
+    "isDefaultCampaign": true,
+    "isPrivateCampaign": false,
+    "promocodes": ["CCC-CLARA-CLAWBACK-SWITCH"]
+  },
+  {
+    "links": [],
+    "code": "FTTH-PREPAID",
+    "name": "Prepaid Fibre",
+    "description": "",
+    "category": "fibre",
+    "urlSlug": "prepaid",
+    "isStandardCampaign": true,
+    "isDefaultCampaign": false,
+    "isPrivateCampaign": false,
+    "promocodes": ["VUMA-REACH-RECURRING", "VUMA-REACH-28DAY-SERVICE", "VUMA-REACH-28DAY-SERVICE-40MBPS", "VUMA-REACH-28DAY-SERVICE-100MBPS"]
+  }
+]

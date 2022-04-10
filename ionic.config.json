@@ -1,0 +1,7 @@
+{
+  "name": "MwebFibreApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

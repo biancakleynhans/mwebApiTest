@@ -1,0 +1,12 @@
+.btnIMG {
+  background-size: contain !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  height: 30px;
+}
+
+ioni-button.styledBTN {
+  --border-color: black !important;
+  --border-radius: 1px !important;
+  --border-style: solid !important;
+}
